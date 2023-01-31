@@ -2,6 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
+/*Uno and generator class are in loose coupling and print is in cohesion */
 /*This class follow loose coupling with generator class because it only give the size information to 
 the generator class.It allow the changes in the classes that 
 if we want to add a card it is nescessary to increase the total length of the 
