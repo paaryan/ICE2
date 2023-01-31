@@ -34,7 +34,6 @@ public class Uno {
     public Suit getS() {
         return S;
     }
-
     /**
      * @param S the S to set
      */
